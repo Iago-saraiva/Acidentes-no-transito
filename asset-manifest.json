@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Acidentes-no-transito/static/css/main.3d39744c.css",
-    "main.js": "/Acidentes-no-transito/static/js/main.80ba88d4.js",
+    "main.css": "/Acidentes-no-transito/static/css/main.07df418f.css",
+    "main.js": "/Acidentes-no-transito/static/js/main.86bb0e9d.js",
     "static/js/453.2eb1544d.chunk.js": "/Acidentes-no-transito/static/js/453.2eb1544d.chunk.js",
     "index.html": "/Acidentes-no-transito/index.html",
-    "main.3d39744c.css.map": "/Acidentes-no-transito/static/css/main.3d39744c.css.map",
-    "main.80ba88d4.js.map": "/Acidentes-no-transito/static/js/main.80ba88d4.js.map",
+    "main.07df418f.css.map": "/Acidentes-no-transito/static/css/main.07df418f.css.map",
+    "main.86bb0e9d.js.map": "/Acidentes-no-transito/static/js/main.86bb0e9d.js.map",
     "453.2eb1544d.chunk.js.map": "/Acidentes-no-transito/static/js/453.2eb1544d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d39744c.css",
-    "static/js/main.80ba88d4.js"
+    "static/css/main.07df418f.css",
+    "static/js/main.86bb0e9d.js"
   ]
 }
